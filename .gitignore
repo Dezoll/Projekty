@@ -1,0 +1,10 @@
+# Ignoruj folder bin i obj w głównym folderze Engineer
+Engineer/bin/
+Engineer/obj/
+
+# Ignoruj folder bin i obj w podfolderze Firebase_auth.WPF
+Engineer/Firebase_auth.WPF/bin/
+Engineer/Firebase_auth.WPF/obj/
+
+# Ignoruj folder packages w głównym folderze Engineer
+Engineer/packages/
